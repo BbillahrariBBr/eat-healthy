@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.orange-color {
+    color: orange;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 3%;
+}
+
+.half-width a {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    font-weight: 700px;
+    color: white;
+    border-radius: 25px;
+    margin-top: 100px;
+}
+
+.top-section {
+    display: flex;
+    margin-top: 100px;
+}
+
+.resize-image {
+    width: 80%;
+}
